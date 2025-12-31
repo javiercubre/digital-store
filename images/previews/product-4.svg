@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fce7f3" width="400" height="300"/>
+  <rect fill="#fbcfe8" x="40" y="40" width="150" height="100" rx="8"/>
+  <rect fill="#f9a8d4" x="210" y="40" width="150" height="100" rx="8"/>
+  <rect fill="#fbcfe8" x="40" y="160" width="150" height="100" rx="8"/>
+  <rect fill="#f9a8d4" x="210" y="160" width="150" height="100" rx="8"/>
+  <text x="200" y="155" text-anchor="middle" fill="#9d174d" font-family="system-ui" font-size="11">Social Media Kit</text>
+</svg>

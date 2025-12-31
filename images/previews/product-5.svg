@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#dcfce7" width="400" height="300"/>
+  <rect fill="#bbf7d0" x="40" y="40" width="320" height="220" rx="8"/>
+  <rect fill="#86efac" x="60" y="60" width="280" height="25" rx="4"/>
+  <circle fill="#4ade80" cx="80" cy="115" r="10"/>
+  <circle fill="#4ade80" cx="80" cy="145" r="10"/>
+  <circle fill="#4ade80" cx="80" cy="175" r="10"/>
+  <circle fill="#4ade80" cx="80" cy="205" r="10"/>
+  <rect fill="#86efac" x="100" y="108" width="220" height="14" rx="2"/>
+  <rect fill="#86efac" x="100" y="138" width="180" height="14" rx="2"/>
+  <rect fill="#86efac" x="100" y="168" width="200" height="14" rx="2"/>
+  <rect fill="#86efac" x="100" y="198" width="160" height="14" rx="2"/>
+  <text x="200" y="78" text-anchor="middle" fill="#166534" font-family="system-ui" font-size="11">Habit Tracker</text>
+</svg>

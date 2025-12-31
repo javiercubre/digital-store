@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fef3c7" width="400" height="300"/>
+  <rect fill="#fde68a" x="40" y="40" width="320" height="220" rx="8"/>
+  <rect fill="#fcd34d" x="60" y="60" width="280" height="30" rx="4"/>
+  <rect fill="#fef3c7" x="60" y="100" width="130" height="70" rx="4"/>
+  <rect fill="#fef3c7" x="200" y="100" width="140" height="70" rx="4"/>
+  <rect fill="#fef3c7" x="60" y="180" width="280" height="60" rx="4"/>
+  <text x="200" y="145" text-anchor="middle" fill="#92400e" font-family="system-ui" font-size="11">Weekly Planner</text>
+</svg>
